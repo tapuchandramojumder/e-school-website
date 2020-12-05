@@ -2,11 +2,21 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+  
  
+}
+.bg{
+    background:#F0FFF0;
+}
+.nav-section{
+    width: 1440px;
+    height:567px;
+  
 }
 .navbar-light .navbar-nav .nav-link {
     color:black;
 }
+
 .button{
     padding:12px 28px;
     border-radius:33px;
@@ -15,4 +25,16 @@ body{
     width:104px;
     text-align:center;
 
+}
+.left-side{
+    margin-top: 50px;
+}
+.learn-color{
+    color:red;
+}
+h1{
+    font-weight:bold;
+}
+h1 span{
+    color:#21B573;
 }
