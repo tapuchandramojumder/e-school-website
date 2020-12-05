@@ -11,6 +11,7 @@ body{
 .nav-section{
     width: 1440px;
     height:567px;
+    
   
 }
 .navbar-light .navbar-nav .nav-link {
@@ -38,3 +39,34 @@ h1{
 h1 span{
     color:#21B573;
 }
+
+/*-----------------nav-section-end-------------------*/
+
+.book-section{
+    margin-top: 50px;
+}
+.inside-div{
+    width:270px;
+    height:270px;
+ }
+ .inside-div:hover{
+     box-shadow:5px 5px 16px lightgray;
+     border-radius:10px;
+ }  
+.inside-div a img{
+    display: block;
+    margin:0 auto;
+    
+}
+.inside-div h6{
+    
+    font-weight:bold;
+    text-align:center;
+    font-size:26px;
+}
+.inside-div p{
+    text-align:center;
+    color:gray;
+}
+
+/*-------------------book-section-end-----------------*/
