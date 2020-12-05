@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+ 
+}
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+}
+.button{
+    padding:12px 28px;
+    border-radius:33px;
+    background-color: #21B573;
+    color:white !important;
+    width:104px;
+    text-align:center;
+
+}
